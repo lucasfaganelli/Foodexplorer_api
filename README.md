@@ -28,6 +28,10 @@ Para rodar o projeto, você irá precisar:
 Clone o projeto usando o comando:
 
 ```bash
+git clone https://github.com/lucasfaganelli/foodexplorer_api.git
+
+ou a CLI:
+
 gh repo clone lucasfaganelli/foodexplorer_api
 ```
 
